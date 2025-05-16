@@ -51,7 +51,7 @@ end
 gem "devise", "~> 4.9"
 gem "jwt", "~> 2.10"
 gem "bcrypt", "~> 3.1"
-gem "rack-cors", "~> 2.0"
+gem "rack-cors", "~> 3.0"
 gem "pagy", "~> 9.3"
 
 gem "devise-jwt", "~> 0.12.1"
